@@ -1,0 +1,59 @@
+body{
+    background-color: aquamarine;
+
+}
+#buttons{
+height: 500px;
+width: 1000px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+margin-left: auto;
+margin-right: auto;
+background-image: url("https://image.shutterstock.com/image-vector/cricket-tournament-illustration-eps-10-260nw-1267674799.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+#addteam{
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: aqua;
+    font-size: larger;
+    box-shadow: 3px 3px 3px black;
+}
+#addplayer{
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: aqua;
+    font-size: larger;
+    box-shadow: 3px 3px 3px black;
+}
+.display{
+    height: 1000px;
+    width: 100vw;
+    border: 1px solid red;
+}
+#teamtitle{
+    align-items: center;
+    height: 450px;
+    width: 23%;
+    background-color: azure;
+    border: 1px solid red;
+    border-radius: 15px;
+
+
+}
+#image{
+    height: 50%;
+    width: 100%;
+}
+#imageipl{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
